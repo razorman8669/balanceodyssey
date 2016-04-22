@@ -204,7 +204,6 @@ header h1 {
   margin: 0; }
   header h1 a {
     display: inline-block;
-    max-width: 140px;
     height: auto; }
     header h1 a img {
       display: block;
